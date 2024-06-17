@@ -68,7 +68,7 @@ export const styles = StyleSheet.create({
     },
 
     divisor: {
-        marginTop: 30, // Ajuste o marginTop conforme necessário
+        marginTop: 30, 
         flexDirection: 'row',
         width: '90%',
         alignItems: 'center',
@@ -79,7 +79,7 @@ export const styles = StyleSheet.create({
         flex: 1,
         height: 2,
         backgroundColor: '#838B83',
-        marginHorizontal: 5, // Espaçamento horizontal entre as linhas
+        marginHorizontal: 5, 
       },
 
       textinho: {
@@ -99,7 +99,7 @@ export const styles = StyleSheet.create({
         paddingLeft: 7,
       },
       linha: {
-        marginTop: 30, // Ajuste o marginTop conforme necessário
+        marginTop: 30, 
         flexDirection: 'row',
         width: '100%',
         alignItems: 'center',
